@@ -6,19 +6,9 @@ Most of my work is focused on designing RESTful APIs, managing databases, and wr
 
 🚀 Featured Projects  
 
-🛠️ Library Management System – C# Console App  
-📖 Description: A simple console-based system to manage books, track borrowed/returned items, and handle users.  
-🔧 Tech Stack:  
-- C# (.NET)  
-- File Handling  
-- OOP Principles  
-
-🚀 Featured Projects  
-
 ---
 
-📚 Library Management System – Django & Python  
-🎥 Demo Video: Watch here  
+📚 Library Management System – Django & Python   
 
 An online library website that allows users to view, search, and borrow books with role-based access for Admins and regular Users.  
 
@@ -33,12 +23,11 @@ An online library website that allows users to view, search, and borrow books wi
 - User: Search, borrow, and view available/borrowed books  
 - Dynamic navigation bar based on user role  
 
-🔗 [View the GitHub Repo](#)  
+🔗 [View the GitHub Repo](https://github.com/AhmedMostafa99a/Full-Stack-Library-System.git)  
 
 ---
 
-🎮 Tic-Tac-Toe Games – C++  
-🎥 Demo Video: Watch here  
+🎮 Tic-Tac-Toe Games – C++   
 
 A collection of Tic-Tac-Toe game variations built with OOP in C++, featuring different rules and win conditions.  
 
@@ -49,7 +38,8 @@ A collection of Tic-Tac-Toe game variations built with OOP in C++, featuring dif
 - Multiple game types (classic, 4-in-a-row, numerical, misère, word-based, etc.)  
 - Menu-driven interface to select games  
 - Random or human players  
-- Clean, modular design using inheritance & polymorphism  
+- Clean, modular design using inheritance & polymorphism
+- Ai player
 
 🔗 [View the GitHub Repo](https://github.com/AhmedMostafa99a/Tic-Tac-Toe-Games.git)  
 
@@ -68,7 +58,7 @@ A simulator for the **Vole Machine** that executes assembly-like instructions fr
 - Displays registers, memory, program counter, and screen  
 - Supports key instructions: LOAD, STORE, MOVE, ADD, BRANCH, HALT  
 
-🔗 [View the GitHub Repo](#)  
+🔗 [View the GitHub Repo](https://github.com/AhmedMostafa99a/Vole-Machine-.git)  
 
 ---
 
