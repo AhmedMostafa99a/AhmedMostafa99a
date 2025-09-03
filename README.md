@@ -1,12 +1,87 @@
-<h1 align="center">Hi 👋, I'm Ahmed Mostafa</h1>
-<h3 align="center">I'm a .NET backend developer with a passion for building reliable and scalable server-side applications. Most of my work is focused on designing RESTful APIs, managing databases efficiently, and writing clean, maintainable code.</h3>
+👋 Hey there, I'm Mostafa!  
+I'm a .NET backend developer with a passion for building reliable and scalable server-side applications.  
+Most of my work is focused on designing RESTful APIs, managing databases, and writing clean, maintainable code.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/ahmed-mostafa-abdelkareem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ahmed-mostafa-abdelkareem" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+🚀 Featured Projects  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmostafa99a&show_icons=true&locale=en&layout=compact" alt="ahmedmostafa99a" /></p>
+🛠️ Library Management System – C# Console App  
+📖 Description: A simple console-based system to manage books, track borrowed/returned items, and handle users.  
+🔧 Tech Stack:  
+- C# (.NET)  
+- File Handling  
+- OOP Principles  
+
+🚀 Featured Projects  
+
+---
+
+📚 Library Management System – Django & Python  
+🎥 Demo Video: Watch here  
+
+An online library website that allows users to view, search, and borrow books with role-based access for Admins and regular Users.  
+
+🔧 Tech Stack:  
+- Django & Python  
+- SQLite / PostgreSQL  
+- HTML, CSS, Bootstrap  
+
+📦 Features:  
+- User & Admin authentication (sign up/login)  
+- Admin: Add, edit, delete, and manage books  
+- User: Search, borrow, and view available/borrowed books  
+- Dynamic navigation bar based on user role  
+
+🔗 [View the GitHub Repo](#)  
+
+---
+
+🎮 Tic-Tac-Toe Games – C++  
+🎥 Demo Video: Watch here  
+
+A collection of Tic-Tac-Toe game variations built with OOP in C++, featuring different rules and win conditions.  
+
+🔧 Tech Stack:  
+- C++ (OOP, STL)  
+
+📦 Features:  
+- Multiple game types (classic, 4-in-a-row, numerical, misère, word-based, etc.)  
+- Menu-driven interface to select games  
+- Random or human players  
+- Clean, modular design using inheritance & polymorphism  
+
+🔗 [View the GitHub Repo](#)  
+
+---
+
+🖥️ Vole Machine Simulator – C++  
+
+A simulator for the **Vole Machine** that executes assembly-like instructions from a file and displays machine state step by step.  
+
+🔧 Tech Stack:  
+- C++ (OOP design)  
+
+📦 Features:  
+- Load and run programs from file  
+- Step-by-step instruction execution  
+- Displays registers, memory, program counter, and screen  
+- Supports key instructions: LOAD, STORE, MOVE, ADD, BRANCH, HALT  
+
+🔗 [View the GitHub Repo](#)  
+
+---
+
+💼 Skills & Tools  
+- C# / backend / .NET
+- C++ / problem solving 
+- SQL & Databases  
+- REST APIs  
+- Git & GitHub  
+- OOP & Design Patterns  
+
+---
+
+📬 Get in Touch  
+💼 [LinkedIn](linkedin.com/in/ahmed-mostafa-abdelkareem)  
+📧 [Email](01029943015a@gmail.com) 
