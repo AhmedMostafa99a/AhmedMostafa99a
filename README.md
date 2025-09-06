@@ -14,8 +14,8 @@ An online library website that allows users to view, search, and borrow books wi
 
 🔧 Tech Stack:  
 - Django & Python  
-- SQLite / PostgreSQL  
-- HTML, CSS, Bootstrap  
+- SQLite / MYSQL  
+- HTML, CSS, Js  
 
 📦 Features:  
 - User & Admin authentication (sign up/login)  
