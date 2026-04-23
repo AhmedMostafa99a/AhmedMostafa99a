@@ -51,6 +51,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMostafa99a&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMostafa99a&show_private=true&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMostafa99a&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
