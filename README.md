@@ -50,6 +50,8 @@
 
 ## 📈 GitHub Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AhmedMostafa99a&show_icons=true&theme=radical&hide_border=true" alt="Ahmed's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMostafa99a&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AhmedMostafa99a&show_icons=true&theme=radical&hide_border=true" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AhmedMostafa99a&layout=compact&theme=radical&hide_border=true" />
 </div>
