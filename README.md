@@ -51,7 +51,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AhmedMostafa99a&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AhmedMostafa99a&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AhmedMostafa99a&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AhmedMostafa99a&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true" />
 </div>
